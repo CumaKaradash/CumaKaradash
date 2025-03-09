@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/cumakaradas"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcumakaradas&count_bg=%234ECDC4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a>
+  <a href="https://github.com/cumakaradash"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcumakaradas&count_bg=%234ECDC4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a>
 </div>
 
 <table align="center">
@@ -56,7 +56,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/CumaKaradas">
+  <a href="https://github.com/cumakaradash">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CumaKaradas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&icon_color=4ECDC4&title_color=FF6B6B&custom_title=🌟%20GitHub%20İstatistiklerim"/>
 </div>
 <br>
@@ -91,7 +91,7 @@
   <a href="https://www.linkedin.com/in/cuma-karadash">
     <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/cumakaradas">
+  <a href="https://github.com/cumakaradashh">
     <img src="https://img.shields.io/badge/GitHub-556270?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
