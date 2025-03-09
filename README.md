@@ -61,25 +61,25 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CumaKaradas&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CumaKaradas&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CumaKaradas&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CumaKaradash&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CumaKaradash&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CumaKaradash&theme=github_dark" width="32%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CumaKaradas&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=4ECDC4&point=FF6B6B" width="98%" />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CumaKaradas&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CumaKaradas&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CumaKaradas&theme=github_dark" width="32%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CumaKaradash&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=4ECDC4&point=FF6B6B" width="98%" />
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CumaKaradas&theme=darkhub&no-frame=true&row=1&column=6&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CumaKaradash&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CumaKaradash&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CumaKaradash&theme=github_dark" width="32%" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CumaKaradash&theme=darkhub&no-frame=true&row=1&column=6&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues" width="100%" />
 </div>
 
 ## 📫 İletişim
@@ -91,7 +91,7 @@
   <a href="https://www.linkedin.com/in/cuma-karadash">
     <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/cumakaradashh">
+  <a href="https://github.com/cumakaradash">
     <img src="https://img.shields.io/badge/GitHub-556270?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
