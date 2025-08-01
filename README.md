@@ -132,17 +132,6 @@ HTML         1 hr 2 mins     █░░░░░░░░░░░░░░░░
 
 ---
 
-### 🛠️ Example Projects & Repositories
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| [**Portfolio Website**](https://github.com/cumakaradash) | Personal developer portfolio | React, Next.js, TypeScript | 🟢 Active |
-| [**API Project**](https://github.com/cumakaradash) | RESTful API development | Node.js, Express, MongoDB | 🟡 In Progress |
-| [**Mobile App**](https://github.com/cumakaradash) | Cross-platform mobile app | React Native, Redux | 🟠 Planning |
-| [**DevTools**](https://github.com/cumakaradash) | Developer productivity tools | Python, CLI, Automation | 🔵 Maintenance |
-
----
-
 ## 🎯 Current Focus & Goals
 
 ### 🔥 Current Projects
@@ -176,7 +165,6 @@ HTML         1 hr 2 mins     █░░░░░░░░░░░░░░░░
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cumakaradash)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cumakaradash@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cumakaradash.vercel.app)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://cumakaradash.vercel.app/blog)
 
 ### 💼 Professional Services
 
