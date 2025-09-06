@@ -1,6 +1,6 @@
 <div align="center">
 
-# CUMA KARADAŞ
+# CUMA KARADASH
 
 ```
 WEB DEVELOPER | DATA SCIENCE STUDENT | ANKARA
@@ -61,14 +61,6 @@ STREAK: Check daily commits below
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cumakaradash&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" alt="GitHub Streak" />
-</p>
-
----
-
-## CONTRIBUTION GRAPH
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cumakaradash&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
