@@ -90,8 +90,4 @@ STREAK: Check daily commits below
 
 ---
 
-```
-LAST UPDATE: 2025
-```
-
 </div>
