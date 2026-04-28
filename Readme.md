@@ -20,20 +20,6 @@ My approach combines pixel-perfect UI implementation with a deep understanding o
 
 ---
 
-### Current Focus & Research
-
-I don't just write code; I analyze systems. Here are some of my recent technical deep-dives:
-
-**[DevFlow](https://github.com/cumakaradash/DevFlow-GitHub)** - A minimalist developer productivity dashboard (Pomodoro, GitHub Stats, Goals) built with Next.js & TypeScript.
-
-**[DPI Research](https://github.com/cumakaradash/DPI)** - Technical analysis on Deep Packet Inspection architecture, TLS bypassing, and censorship mechanisms.
-
-**[Web Security](https://github.com/cumakaradash/awesome-web-security)** - Curator and translator for comprehensive web security resources.
-
-**[Terminal-Me](https://github.com/cumakaradash/Terminal-Me)** - A browser-based terminal emulator portfolio.
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/cumakaradash" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
